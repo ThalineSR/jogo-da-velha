@@ -1,6 +1,6 @@
 /* Aqui eu posso declarar variáveis. */
 :root{
-    --color-primary:rgb(40,140,40);
+    --color-primary: #ffC0CB; 
     --color-secundary:rgb(40,100,40);
     --color-geral: #121214;
     --font-color: rgb(255,255,250);
